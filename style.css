@@ -39,6 +39,11 @@ section {
    text-align: center;
    background-color: rgb(16, 99, 45);
 }
+#services{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(193, 12, 12);
+}
 footer { 
 padding: 12px; 
 text-align: center; 
